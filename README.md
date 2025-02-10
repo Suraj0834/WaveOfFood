@@ -1,7 +1,9 @@
 🌊 WaveOfFood 🍽️
+
 Welcome to WaveOfFood, a cutting-edge platform designed to revolutionize the food delivery experience! Whether you're a food lover 🍕 looking to indulge or a seller 🍔 eager to showcase your culinary masterpieces, WaveOfFood has got you covered. 🌟
 
 🚀 Features
+
 User-Friendly Interface: A seamless app for buyers and sellers, offering an intuitive navigation system. 🧑‍🍳📱
 Real-Time Order Tracking: Buyers can track their food orders from start to finish. ⏱️🍴
 Customizable Menus: Sellers can personalize their menus and easily manage them. 📜🍔
@@ -9,6 +11,7 @@ Account Security: Secure login options with email/password and Google authentica
 Unique Profiles: Each user has a personalized profile to manage their data, orders, and preferences. 👤🖼️
 Admin Panel: Admins can manage users, orders, and overall platform activity. 🧑‍💻⚙️
 🛠️ Tech Stack
+
 Frontend: Android (Kotlin) 📱💻
 Backend: Firebase for authentication and data management 🔥
 Database: Firebase Firestore 🗃️
